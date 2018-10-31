@@ -1,0 +1,32 @@
+Timestamp,I think that I would like to use RiskID frequently,I found RiskID to be simple,I thought RiskID was easy to use,I think I could use RiskID without the support of a technical person,I found the various functions in RiskID were well integrated,I thought there was a lot of consistency in RiskID,I would imagine that most people would learn to use RiskID very quickly,I found RiskID very intuitive,I felt very confident using RiskID,I could use RiskID without having to learn anything new,"In your opinion, what are the negative aspects of RiskID?","In your opinion, what are the positive aspects of RiskID?"
+12/12/2016 17:10:02,5,6,6,6,6,6,6,6,6,6,"none for the moment, may be I'll need to work more often with the tool to find a negative aspect",ITs easy to identify the connections and the symbols percentage per connection. Its interesting to see the connection detail as well
+12/13/2016 10:43:06,6,6,6,7,5,5,5,5,5,5,"There are several function not working properly. Mainly, some aspect related to the filtering functions.","The visualization tools used were very handing for recognizing different aspects of the connection. However, there were some cases where they resulted insufficient. (like de case of some http connections)"
+11/2/2017 19:14:03,5,3,5,2,5,5,4,5,2,2,The way the graphs and sections appear.,How quickly you can make the comparison and put the labels.
+11/3/2017 1:22:21,7,6,6,3,4,5,2,6,6,4,The percentage values and bars confuse in the position they are.,"Intuitive, for those who understand something."
+11/4/2017 1:15:54,4,5,5,3,6,5,6,5,6,3,"Some UI elements could be improved. Particularly, the connection list's fade effect was somewhat distracting and could perhaps be replaced with a loading icon, or some other indicator that doesn't suggest that the list is unclickable or unusable during the animation. Also, the pie chart's color scheme wasn't ordered by periodicity. I expected the lighter color would represent the ""least-periodical"" (is that a word? I mean the ""rarest"") packet flow, which I understood to be ""Strong Non-Periodicity"".
+The phrasing on some of the labels was odd, for example: ""duration medium"" instead of ""medium duration"", or ""duration: medium""; and ""No Bot"" instead of ""Normal"" (which is inconsistent with the labeling options), ","Once the flow codification strategy is understood, the labeling process is quite simple. Just by visually comparing (without checking port and IPs) an unlabeled connection with two other similar (labeled) ones, an initial conclusion as to its nature can be reached very quickly."
+11/4/2017 22:56:22,6,5,5,4,5,5,3,4,5,6,We still need to improve some things in the interface,The color scheme and the intensity of the colors help to make quick decisions.
+11/5/2017 23:50:59,6,5,6,3,5,5,6,4,7,3,"If the connection detail panel content is larger than the connection list, when scrolling down, the detail panel moves to the right.
+The low confidence on each probability was slightly confusing *at first*, and made me wonder about the actual value of having that information.","The probability label greatly helped with the speed of the tagging process, though I'm not sure if it helped with it's accuracy."
+11/11/2017 22:14:09,6,6,6,3,5,5,6,5,4,2,Some things on the interface need to be polished,The best thing is that graphically it is understood immediately
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+6/1/2018 20:49:39,2,1,2,1,7,6,1,2,1,1,No entiendo muy bien el funcionamiento de la misma,"Muy buen desarrollo de su interfaz y frontend, con buenas referencias hacia todo."
+6/1/2018 20:50:46,5,5,5,4,4,4,4,4,4,4,-,-
+6/1/2018 21:01:28,5,6,6,5,6,5,6,7,6,4,,Muy buena experiencia del usuario
+6/1/2018 21:05:31,1,6,6,4,4,6,6,6,5,6,las interfaces,el código de colores
+6/1/2018 21:05:33,5,4,4,2,5,5,5,7,4,6,"Dentro de la aplicación estaria bueno tener un ""help"" para no tener que volver al video","las funcionalidades para poder comparar entre distintas clasificaciones, como los graficos"
+6/1/2018 21:06:38,3,3,4,2,3,3,4,5,2,4,es difícil identificar que clasificación asignarle en un principio,"es dinámico, amigable, y luego de un cierto tiempo de uso, empieza a resultar fácil"
+6/1/2018 21:07:11,1,4,6,4,3,5,2,3,2,1,,
+6/1/2018 21:07:25,4,4,5,5,6,5,6,6,5,5,Me quita la ansiedad de que empiece Rusia 2018 y tengo miedo de no querer ver Japon Senegal,Everything
+6/1/2018 21:07:34,5,3,6,3,5,3,5,4,3,7,Por ahí me pasaba que me perdía con las etiquetas. Quedaban etiquetas que ya habia 'cerrado anteriormente' del lado derecho y no deseaba que aparezcan allí. ,"Tiene una gran usabilidad, y no se necesita tanto conocimiento previo para utilizar la herramienta"
+6/1/2018 21:07:45,3,7,5,7,4,6,7,6,3,5,La escala de colores de periodicidad no coincide con el significado,Es fácil de usar y resume muchos datos en forma gráfica
+6/1/2018 21:07:54,6,4,5,4,7,7,5,5,4,4,"Maybe if you open the connection, it shouldn't stay automatically in the right pannel. Maybe you can manually set those you want to be fixed",The app's graphics and colours are very intuitive and easy to understand.
+6/1/2018 21:08:02,1,5,4,4,2,3,6,6,1,1,"Cuando elegís uno de las últimas conexiones, la lista se vuelve al primer lugar... o sea que hay que volver a bajar para elegir la siguiente conexión. Además, cuando elegís una conexión, te abre 2 conexiones más al azar aparentemente",Es fácil de usar y los colores son bonitos
+6/1/2018 21:08:13,4,5,5,4,5,4,5,6,5,6,"no es intuitivo que representa cada color y su intensidad, deberia de estar en algun lugar de la solapa a que correspondes los colores.",una vez familiarizado con la representación de los colores es facil uso
+6/1/2018 21:08:21,3,7,7,7,5,6,6,7,4,6,"En la pantalla cuesta comparar muchos casos, me gustaría poder dejar por un tiempo separadas las conexiones etiquetadas por mi para poder compararlas mejor y que no me confundan al etiquetar nuevas.","Es muy intuitvo, los colores y gráficos son fáciles de comparar. Es bastante liviana y rápida"
+6/1/2018 21:08:35,4,4,4,4,4,4,4,4,4,4,Es poco intuitivo,No sé
+6/1/2018 21:08:52,6,7,7,6,4,5,7,6,6,3,Los paquetes que muestra para comparar con un botnet y un normal no siempre ayudan a decidir,"Es intuitivo, es facil de usar, el uso de colores representativos ayuda mucho a acostumbrarse facilmente al uso de la aplicación y yo creo que con práctica una persona, aunque no tenga muchos conocimientos puede ser bastante productiva"
+6/1/2018 21:10:42,5,6,6,4,6,6,6,5,6,6,,

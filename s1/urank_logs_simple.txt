@@ -1,0 +1,314 @@
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.21.23,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.21.30,Connection,2436, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.21.34,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.21.49,Connection,4394, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.21.49,Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.21.50,Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.21.54,Label Botnet,4394, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.0,Close Comparative Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.0,Close Connection,2436, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.1,Close Connection,4394, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.1,Close Comparative Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.4,Ranking Reset,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.10,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.14,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.23,Connection,4750, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.28,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.32,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.46,Connection,843, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.46,Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.46,Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.22.58,Label Botnet,843, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.4,Close Comparative Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.4,Close Comparative Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.4,Close Connection,843, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.4,Close Connection,4750, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.9,Ranking Reset,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.11,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.17,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.19,Ranking Reset,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.23.31,Show Characteristic Legend,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.24.17,Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.24.17,Connection,22, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.24.17,Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.24.19,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.25.23,Connection,2436, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.25.37,Close Comparative Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.25.38,Close Comparative Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.25.43,Close Connection,2436, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.25.58,Connection,843, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.2,Connection,4750, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.7,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.13,Close Connection,843, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.14,Close Connection,4750, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.18,Label Botnet,22, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.36,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.36,Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.36,Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.40,Label Botnet,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.43,Label Normal,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.49,Close Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.26.54,Close Comparative Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.0,Close Comparative Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.16,Connection,1922, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.16,Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.16,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.23,Label Botnet,1922, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.25,Close Comparative Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.25,Close Comparative Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.25,Close Connection,1922, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.25,Close Connection,22, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.27,Ranking Reset,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.34,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.42,Connection,7442, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.47,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.27.58,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.28.33,Connection,4526, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.28.44,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.28.51,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.28.51,Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.28.51,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.28.56,Label Botnet,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.29.0,Close Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.29.0,Close Comparative Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.29.0,Close Comparative Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.29.0,Close Connection,7442, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.29.0,Close Connection,4526, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.29.3,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.36.59,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.3,Connection,4394, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.5,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.10,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.14,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.35,Connection,4781, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.35,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.35,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.38,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.49,Label Botnet,4781, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.53,Close Comparative Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.53,Close Connection,4781, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.53,Close Comparative Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.53,Close Connection,4394, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.37.55,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.38.28,Connection,22, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.38.28,Connection,2436, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.38.38,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.38.58,Connection,8585, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.38.58,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.38.58,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.39.1,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.39.14,Label Normal,8585, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.39.18,Close Comparative Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.39.18,Close Connection,2436, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.39.18,Close Comparative Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.39.18,Close Connection,22, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.39.18,Close Connection,8585, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.40.33,Connection,2644, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.40.33,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.40.33,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.40.54,Label Botnet,2644, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.40.56,Close Comparative Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.40.57,Close Comparative Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.40.57,Close Connection,2644, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.41.0,Ranking Reset,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.41.3,Ranking Reset,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.41.4,Ranking Reset,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.41.11,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.41.29,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.41.57,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.42.2,Close Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.42.7,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.42.26,Connection,5372, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.42.26,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.43.17,Connection,4520, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.43.25,Close Comparative Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.43.30,Label Botnet,4520, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.43.33,Close Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.43.33,Close Connection,5372, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.43.33,Close Connection,4520, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.43.35,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.43.37,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.44.22,Connection,2737, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.45.40,Connection,219, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.45.40,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.45.45,Connection,360, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.45.55,Label Botnet,219, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.45.58,Label Botnet,360, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.46.1,Close Comparative Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.46.4,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.46.5,Close Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.46.5,Close Connection,2737, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.46.5,Close Connection,219, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.46.5,Close Connection,360, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.46.8,Show Sequence Connection,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.20,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.23,Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.29,Close Connection,8361, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.32,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.33,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.35,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.36,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.38,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.39,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.42,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.52,Connection,1433, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.52,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.47.55,Label Botnet,1433, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.0,Close Connection,1433, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.2,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.2,Close Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.3,Close Comparative Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.7,Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.9,Label Botnet,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.12,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.22,Filter,0, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.22,Close Connection,1792, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.26,Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.39,Connection,34, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.39,Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.42,Label Botnet,34, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.45,Close Connection,2342, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.45,Close Comparative Connection,1913, simple app
+w17epBd3mDTqepRSbWvqVvWkKdAKlWO9,Juan Gomez,5pc5jpz4zpvi,2017-11-4_18.48.45,Close Connection,34, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.32.44,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.32.44,Connection,8361, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.32.44,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.34.46,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.34.47,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.34.49,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.34.50,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.36.19,Show Sequence Connection,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.36.57,Label Botnet,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.36.59,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.4,Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.10,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.10,Ranking Reset,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.11,Ranking Reset,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.12,Connection,7906, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.12,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.12,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.20,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.20,Close Connection,7906, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.20,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.24,Connection,4781, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.24,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.37.24,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.26,Label Botnet,4781, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.35,Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.37,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.38,Close Connection,4781, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.38,Close Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.38,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.45,Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.45,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.49.45,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.21,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.22,Close Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.22,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.26,Connection,1792, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.26,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.26,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.34,Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.36,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.36,Close Connection,1792, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.36,Close Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.36,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.43,Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.43,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.43,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.45,Connection,8105, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.47,Close Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.48,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.48,Close Connection,8105, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.48,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.52,Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.52,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_21.58.52,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.36,Label Botnet,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.42,Connection,1786, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.44,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.44,Close Connection,4394, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.44,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.44,Close Connection,1786, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.51,Connection,1786, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.51,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.1.51,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.31.9,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.31.13,Connection,1792, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.31.14,Connection,8705, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.33.56,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.34,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.36,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.38,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.39,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.46,Close Connection,1786, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.51,Connection,1786, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.53,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.53,Close Connection,1792, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.54,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.54,Close Connection,1786, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.54,Close Connection,8705, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.34.59,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.2,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.4,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.5,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.8,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.12,Connection,8361, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.13,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.17,Connection,1539, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.21,Label Normal,1539, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.22,Label Botnet,1539, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.25,Ranking Reset,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.27,Connection,4526, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.39,Ranking Reset,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.39,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.44,Connection,5305, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.44,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.35.45,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.14,Label Normal,5305, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.16,Connection,7906, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.18,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.18,Close Connection,7906, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.18,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.18,Close Connection,5305, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.20,Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.20,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.39.20,Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.15,Label Normal,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.17,Connection,7906, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.18,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.19,Close Connection,7906, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.19,Close Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.19,Close Comparative Connection,1913, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.24,Connection,5256, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.24,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_22.47.24,Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.7.5,Label Normal,5256, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.7.11,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.7.11,Close Comparative Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.7.11,Close Connection,5256, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.7.14,Connection,3844, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.7.14,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.7.14,Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.9.52,Label Normal,3844, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.9.54,Connection,917, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.9.56,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.9.56,Close Comparative Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.9.57,Close Connection,3844, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.9.57,Close Connection,917, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.10.0,Connection,2823, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.10.0,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.10.0,Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.11.9,Save Labeling,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.8,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.10,Connection,8719, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.34,Label Normal,8719, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.36,Label Normal,2823, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.52,Close Comparative Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.52,Close Comparative Connection,2750, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.52,Filter,0, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.52,Close Connection,2823, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.52,Close Connection,8719, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.59,Connection,34, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.59,Connection,2342, simple app
+LQTVXeTZrMXeASapGmsO3gerwibsECCe,Pablo Zingariello,axnlcg2hgdyj5rk9,2017-12-12_23.18.59,Connection,2750, simple app

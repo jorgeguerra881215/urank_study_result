@@ -1,0 +1,1235 @@
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.29.41,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.29.41,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.29.41,Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.29.43,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.29.53,Connection,8327, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.30.56,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.30.56,Close Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.30.56,Close Connection,8327, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.30.56,Close Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.30.56,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.31.16,Connection,6710, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.31.36,Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.31.36,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.31.36,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.40.47,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.40.50,Filter,0, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.26,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.26,Connection,6108, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.26,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.27,Connection,8327, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.40.52,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.40.53,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.40.55,Filter,0, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.34,Filter,0, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.37,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.41.3,Filter,0, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.40,Close Connection,6108, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.41,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.43,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.32.43,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.32.43,Close Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.32.43,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.32.43,Close Connection,6710, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.32.44,Close Connection,8327, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.41.9,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.41.11,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.41.13,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.41.14,Filter,0, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.32.53,Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.32.53,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.32.53,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.41.22,Filter,0, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.1,Close Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.2,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.3,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.5,Connection,6108, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.5,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.5,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.20,Filter,0, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.24,Connection,4781, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.24,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.24,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.31,Connection,6947, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.31,Connection,5076, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.34,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.34,Close Connection,5076, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.35,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.34,Close Connection,6108, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.36,Connection,7906, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.36,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.33.36,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.44,Close Connection,4781, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.45,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.46,Close Comparative Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.33.47,Close Connection,6947, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.3,Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.3,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.4,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.42.38,Filter,0, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.21,Connection,1539, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.42.46,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.42.50,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.42.52,Filter,0, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.33,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.42.53,Filter,0, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.36,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.43.0,Filter,0, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.44,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.44,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.43.9,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.43.12,Filter,0, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.55,Close Connection,1539, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.58,Close Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.58,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.34.58,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.43.20,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.43.26,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.43.28,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.43.33,Filter,0, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.35.22,Connection,8327, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.35.24,Close Connection,7906, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.35.24,Close Connection,8327, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.35.25,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.35.25,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.35.26,Connection,7906, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.35.26,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.35.26,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.35.32,Connection,7765, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.35.32,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.35.32,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.35.45,Filter,0, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.35.49,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.11,Show Sequence Connection,0, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.35.55,Save Labeling,0, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.36.3,Close Connection,7765, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.36.4,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.36.5,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.36,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.35,Connection,6108, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.36,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.36,Connection,5724, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.37,Connection,5076, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.41,Close Connection,6108, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.42,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.43,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.44,Close Connection,5724, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.45,Close Connection,5076, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.49,Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.49,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.44.49,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.32,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.32,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.32,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.37,Connection,7906, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.36.35,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.36.37,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.41,Close Connection,7906, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.36.43,Connection,6570, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.45,Close Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.7,Close Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.47,Connection,7906, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.7,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.8,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.10,Connection,2375, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.10,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.10,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.52,Close Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.52,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.52,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.36.50,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.55,Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.55,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.36.55,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.24,Close Connection,2375, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.0,Connection,7682, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.25,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.26,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.29,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.31,Connection,1626, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.13,Close Connection,6570, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.14,Close Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.38,Close Connection,1626, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.17,Close Connection,7682, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.22,Connection,7682, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.24,Connection,6570, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.30,Connection,8085, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.55,Filter,0, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.34,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.59,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.59,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.45.59,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.37.46,Connection,1539, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.37.57,Connection,4997, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.55,Close Connection,8085, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.57,Close Connection,7682, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.37.59,Close Connection,7906, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.0,Close Connection,6570, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.5,Connection,7442, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.8,Connection,7682, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.10,Connection,8085, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.12,Connection,1539, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.29,Connection,5565, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.30,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.7,Close Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.8,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.8,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.51,Close Connection,1539, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.51,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.51,Close Connection,7682, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.51,Close Connection,8085, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.51,Close Connection,5565, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.51,Close Connection,7442, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.51,Close Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.38.56,Label Botnet,7906, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.54,Connection,8327, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.54,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.38.54,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.22,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.22,Connection,7906, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.22,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.7,Connection,8327, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.9,Close Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.9,Close Connection,8327, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.9,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.9,Close Connection,4997, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.9,Close Connection,1539, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.9,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.12,Connection,8327, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.12,Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.12,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.11,Connection,1539, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.39,Close Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.19,Label Botnet,8327, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.40,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.41,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.22,Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.21,Close Connection,8327, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.21,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.21,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.21,Close Connection,1539, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.25,Close Comparative Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.25,Close Connection,8327, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.25,Close Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.25,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.47,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.47,Connection,8327, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.47.47,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.24,Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.24,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.24,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.29,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.29,Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.29,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.32,Connection,7682, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.42,Label Botnet,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.5,Label Normal,8327, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.7,Label Botnet,8327, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.49,Close Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.49,Close Comparative Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.49,Close Comparative Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.39.46,Show Sequence Connection,0, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.51,Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.51,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.51,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.48,Close Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.48,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.48,Close Connection,7682, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.48,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.50,Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.50,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.39.50,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.14,Close Connection,8327, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.17,Connection,8327, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.17,Connection,7906, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.39.57,Connection,5076, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.39.56,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.39.56,Connection,7906, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.39.56,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.22,Label Botnet,7906, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.25,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.25,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.40.2,Connection,8737, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.26,Close Connection,7906, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.27,Close Comparative Connection,8327, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.28,Connection,7906, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.28,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.28,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.31,Label Botnet,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.7,Close Connection,7906, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.32,Close Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.32,Close Comparative Connection,7906, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.8,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.8,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.33,Close Comparative Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.12,Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.12,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.12,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.35,Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.35,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.48.36,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.15,Label Normal,8327, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.40.16,Connection,2260, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.18,Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.22,Close Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.23,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.24,Close Comparative Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.26,Label Normal,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.28,Close Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.30,Connection,6108, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.30,Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.30,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.37,Connection,8737, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.0,Label Normal,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.40,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.40,Close Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.40,Close Connection,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.40,Close Connection,8737, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.40,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.2,Close Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.3,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.4,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.45,Connection,1828, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.45,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.45,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.6,Connection,5076, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.6,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.6,Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.40.43,Connection,1805, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.40.51,Label Normal,1828, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.49,Label Normal,6108, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.14,Label Normal,5076, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.16,Close Connection,5076, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.16,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.40.53,Connection,1828, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.17,Close Comparative Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.54,Close Comparative Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.54,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.40.54,Close Connection,6108, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.19,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.19,Connection,5724, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.19,Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.0,Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.5,Label Botnet,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.41.5,Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.41.5,Connection,4781, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.41.5,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.11,Close Connection,1828, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.32,Label Normal,5724, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.8,Close Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.12,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.33,Close Connection,5724, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.12,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.13,Close Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.35,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.36,Close Comparative Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.15,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.15,Close Connection,1828, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.15,Close Connection,8737, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.15,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.15,Close Connection,1805, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.15,Close Connection,2260, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.19,Connection,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.19,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.19,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.18,Connection,5076, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.18,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.18,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.44,Connection,6108, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.44,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.49.44,Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.21,Close Connection,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.25,Connection,5724, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.25,Connection,1828, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.33,Close Connection,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.33,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.34,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.35,Close Connection,5724, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.34,Close Connection,1828, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.39,Connection,8105, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.39,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.39,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.36,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.38,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.44,Close Connection,8105, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.45,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.42,Connection,2291, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.42,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.41.42,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.46,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.50,Connection,4108, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.50,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.41.50,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.41.46,Label Normal,4781, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.41.48,Close Comparative Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.41.48,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.41.48,Close Connection,4781, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.42.11,Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.42.11,Connection,7840, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.42.11,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.42.28,Label Normal,7840, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.29,Close Connection,2291, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.30,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.31,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.41,Connection,5724, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.41,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.41,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.46,Close Connection,4108, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.47,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.47,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.52,Connection,5724, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.52,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.52,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.42.51,Close Connection,7840, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.56,Label Botnet,5724, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.55,Close Connection,5724, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.56,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.59,Close Connection,5724, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.56,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.42.59,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.0,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.59,Connection,5076, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.59,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.42.59,Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.1,Close Connection,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.4,Connection,22, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.4,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.4,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.43.2,Connection,7765, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.3,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.3,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.11,Close Connection,22, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.12,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.12,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.10,Connection,3385, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.10,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.10,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.14,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.14,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.14,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.43.16,Label Botnet,7765, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.23,Label Normal,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.43.23,Connection,3844, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.38,Close Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.42,Connection,3385, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.42,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.47,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.47,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.45,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.45,Close Connection,3385, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.43.45,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.43.49,Close Comparative Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.43.52,Label Botnet,3844, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.43.55,Connection,4394, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.1,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.1,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.1,Connection,1913, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.44.10,Label Normal,4394, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.44.21,Connection,6348, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.44.21,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.44.21,Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.44.24,Connection,7335, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.25,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.26,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.26,Close Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.44.31,Connection,1265, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.37,Connection,917, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.37,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.37,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.7,Close Connection,6108, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.7,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.8,Close Comparative Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.44.48,Connection,1792, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.46,Connection,6570, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.11,Connection,5076, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.13,Label Botnet,5076, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.44.50,Label Botnet,7335, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.51,Close Connection,917, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.52,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.52,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.44.52,Close Connection,6570, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.17,Close Connection,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.45.2,Label Botnet,3385, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.22,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.22,Connection,420, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.22,Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.0,Connection,3385, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.0,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.0,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.28,Label Normal,420, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.31,Close Connection,420, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.32,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.34,Close Comparative Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.36,Connection,2375, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.36,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.36,Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.14,Close Connection,7335, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.16,Connection,6503, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.42,Label Botnet,2375, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.45.24,Close Connection,3385, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.47,Close Connection,2375, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.25,Close Connection,3385, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.25,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.25,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.25,Close Connection,6503, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.50,Connection,6947, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.28,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.27,Close Comparative Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.28,Close Connection,3844, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.28,Close Connection,7765, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.28,Close Connection,4394, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.52,Close Comparative Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.52,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.54,Close Connection,6947, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.57,Connection,6947, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.57,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.53.57,Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.37,Connection,6348, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.37,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.37,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.5,Label Botnet,6947, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.45.44,Label Botnet,1792, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.41,Filter,0, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.8,Close Connection,6947, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.45.45,Connection,420, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.17,Connection,5589, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.18,Connection,5565, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.56,Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.56,Connection,5724, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.45.56,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.21,Connection,509, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.0,Connection,1539, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.46.6,Close Connection,1792, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.24,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.24,Close Comparative Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.25,Close Connection,5589, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.25,Close Connection,5565, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.26,Close Connection,509, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.28,Connection,2530, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.28,Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.28,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.6,Connection,7906, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.37,Label Normal,2530, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.39,Close Connection,2530, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.17,Close Connection,7906, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.17,Close Comparative Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.17,Close Connection,1539, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.17,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.17,Close Connection,5724, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.46.21,Connection,7863, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.45,Connection,2429, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.21,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.21,Close Connection,420, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.21,Close Connection,6348, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.21,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.23,Connection,5076, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.23,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.23,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.46,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.46,Close Comparative Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.47,Close Connection,2429, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.50,Connection,4434, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.50,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.50,Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.27,Connection,7863, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.27,Connection,7906, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.27,Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.27,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.54,Label Botnet,4434, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.56,Close Connection,4434, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.57,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.54.57,Close Comparative Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.46.41,Label Botnet,7863, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.46.39,Connection,3844, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.46.45,Connection,3844, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.42,Label Normal,7906, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.5,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.5,Connection,5589, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.5,Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.10,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.10,Close Connection,5589, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.11,Close Comparative Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.47,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.12,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.12,Connection,2429, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.12,Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.20,Label Botnet,2429, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.21,Close Connection,2429, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.46.57,Label Normal,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.24,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.47.0,Close Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.47.0,Close Connection,7906, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.47.0,Close Comparative Connection,8327, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.47.0,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.26,Close Comparative Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.8,Connection,8757, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.9,Close Connection,6348, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.10,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.11,Close Comparative Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.33,Connection,5724, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.12,Close Connection,1265, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.13,Close Connection,7863, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.10,Close Connection,3844, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.14,Close Connection,3844, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.37,Close Connection,5724, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.39,Connection,5565, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.39,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.39,Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.18,Connection,8757, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.45,Label Normal,5565, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.46,Close Connection,5565, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.26,Close Connection,7863, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.51,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.27,Close Comparative Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.51,Close Comparative Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.29,Close Connection,5076, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.53,Connection,4781, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.53,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.53,Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.33,Label Normal,8757, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.30,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.32,Close Connection,8757, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.55.56,Label Botnet,4781, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.1,Close Connection,4781, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.1,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.2,Close Comparative Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.6,Connection,4434, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.8,Close Connection,4434, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.50,Connection,6503, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.50,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.50,Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.12,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.12,Connection,421, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.12,Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.47.50,Connection,5589, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.47.50,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.47.50,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.53,Connection,1081, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.53,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.47.53,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.56,Close Connection,6503, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.17,Label Botnet,421, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.56,Close Connection,8757, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.57,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.47.59,Close Comparative Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.18,Close Connection,421, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.19,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.19,Close Comparative Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.47.59,Label Botnet,5589, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.28,Connection,7840, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.28,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.28,Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.5,Close Connection,5589, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.10,Connection,1081, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.10,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.10,Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.7,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.8,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.37,Label Normal,7840, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.38,Close Connection,7840, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.39,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.16,Close Connection,1081, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.19,Label Normal,1081, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.40,Close Comparative Connection,2750, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.17,Close Comparative Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.20,Close Connection,1081, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.18,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.21,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.18,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.18,Connection,8105, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.18,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.22,Close Comparative Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.20,Label Botnet,8105, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.23,Connection,5403, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.23,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.23,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.26,Connection,8829, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.27,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.27,Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.27,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.26,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.48.27,Close Connection,8105, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.52,Connection,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.53,Label Botnet,2750, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.56.55,Close Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.38,Connection,2122, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.35,Close Connection,5403, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.36,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.37,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.40,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.1,Connection,6108, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.1,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.1,Connection,5724, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.3,Close Connection,6108, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.5,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.5,Close Comparative Connection,5724, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.48.46,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.43,Connection,3983, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.43,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.43,Connection,1913, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.9,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.9,Connection,7863, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.9,Connection,5724, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.16,Label Botnet,7863, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.17,Close Connection,7863, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.48.56,Close Connection,3983, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.18,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.18,Close Comparative Connection,5724, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.22,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.22,Connection,3385, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.22,Connection,5724, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.2,Label Normal,2122, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.26,Label Botnet,3385, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.27,Close Connection,3385, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.28,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.49.5,Connection,2122, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.49.6,Connection,4725, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.49.6,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.49.6,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.49.8,Label Normal,4725, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.49.10,Close Connection,4725, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.49.9,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.49.9,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.36,Close Comparative Connection,5724, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.39,Connection,5724, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.49.15,Connection,5403, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.19,Connection,3974, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.19,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.19,Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.40,Label Botnet,5724, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.21,Close Connection,8829, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.42,Close Connection,5724, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.22,Close Connection,2122, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.24,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.26,Close Comparative Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.50,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.50,Connection,4871, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.50,Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.30,Close Connection,3974, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.34,Connection,420, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.34,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.34,Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.58,Label Normal,4871, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.59,Close Connection,4871, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.57.59,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.1,Close Comparative Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.46,Connection,2737, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.7,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.7,Connection,4394, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.7,Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.48,Close Connection,420, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.48,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.49,Close Comparative Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.17,Label Botnet,4394, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.56,Connection,5372, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.56,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.49.56,Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.18,Close Connection,4394, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.19,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.20,Close Comparative Connection,5565, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.1,Connection,5372, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.1,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.1,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.50.4,Connection,1212, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.25,Connection,5589, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.25,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.25,Connection,5565, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.3,Label Botnet,5372, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.50.9,Close Connection,5403, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.12,Connection,1212, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.35,Close Connection,5589, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.35,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.35,Close Comparative Connection,5565, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.19,Label Botnet,1212, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.42,Connection,7335, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.42,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.58.42,Connection,5565, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.50.27,Connection,5589, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.50.28,Connection,2750, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.28,Close Connection,1212, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.30,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.30,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.30,Close Connection,5372, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.50.47,Label Botnet,5372, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.50.47,Connection,5372, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.55,Connection,8705, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.55,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.55,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.50.58,Close Connection,5372, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.50.59,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.50.59,Close Comparative Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.57,Label Normal,8705, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.0,Close Connection,1212, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.1,Close Connection,2737, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.58,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.58,Close Connection,8705, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.50.58,Close Comparative Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.13,Close Connection,7335, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.13,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.14,Close Comparative Connection,5565, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.51.8,Close Connection,5372, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.31,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.31,Connection,4296, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.31,Connection,5565, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.51.11,Close Connection,2750, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.19,Connection,5356, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.40,Label Normal,4296, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.43,Close Connection,4296, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.44,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.45,Close Comparative Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.24,Connection,8971, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.24,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.24,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.51.24,Connection,5054, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.29,Close Connection,5356, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.49,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.49,Connection,6406, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.49,Connection,5565, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.51,Close Connection,6406, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.52,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.31,Label Normal,8971, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.53,Close Comparative Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.34,Close Connection,8971, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.35,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.35,Close Comparative Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.58,Connection,6348, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.58,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_15.59.58,Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.39,Connection,1366, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.39,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.39,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.51.39,Connection,3408, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.51.38,Connection,308, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.51.38,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.51.38,Connection,8361, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.3,Close Connection,6348, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.51.41,Label Normal,308, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.5,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.6,Close Comparative Connection,5565, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.51.44,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.51.44,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.51.44,Close Connection,308, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.49,Label Normal,1366, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.12,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.11,Connection,7335, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.12,Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.54,Close Connection,1366, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.55,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.51.55,Close Comparative Connection,7866, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.19,Label Normal,7335, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.51.58,Connection,1366, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.22,Close Connection,7335, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.22,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.24,Close Comparative Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.3,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.3,Connection,2817, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.3,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.14,Connection,830, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.34,Connection,4188, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.34,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.35,Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.16,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.52.15,Connection,4520, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.43,Label Normal,4188, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.44,Close Connection,4188, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.46,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.48,Close Comparative Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.28,Label Botnet,830, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.31,Label Normal,2817, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.53,Connection,4725, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.53,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.54,Connection,5565, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.52.33,Connection,7335, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.39,Connection,6348, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.39,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.58,Close Connection,4725, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.0.59,Close Comparative Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.1.2,Close Comparative Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.52.59,Connection,421, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.1.15,Connection,2342, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.1.14,Connection,5589, simple app
+5JUFAELZDTrymvASnT8wKF4jUu8ZzqLt,Martin,hor3c7v1uy096bt9,2018-6-1_16.1.15,Connection,5565, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Connection,5589, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Connection,7335, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Connection,2122, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Connection,1366, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Connection,5054, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Connection,4520, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.6,Close Connection,3408, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.9,Connection,7716, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.12,Connection,5076, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.12,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.12,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.53.22,Close Connection,2817, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.53.22,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.53.23,Close Connection,830, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.25,Connection,509, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.53.31,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.53.32,Close Connection,421, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.30,Connection,6155, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.53.40,Label Botnet,6348, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.53.45,Close Connection,6348, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.43,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.43,Connection,3163, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.43,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.44,Label Normal,3163, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.45,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.46,Close Connection,3163, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.45,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.46,Close Connection,509, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.53.49,Close Connection,6155, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.55,Connection,4108, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.55,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.55,Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.58,Label Normal,4108, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.59,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.53.59,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.0,Close Connection,4108, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.8,Connection,4151, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.54.7,Connection,7870, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.12,Connection,3163, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.12,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.9,Connection,72, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.9,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.9,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.12,Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.12,Label Normal,72, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.54.13,Connection,7765, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.18,Connection,2817, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.20,Close Connection,3163, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.20,Close Connection,4151, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.21,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.21,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.22,Close Connection,2817, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.20,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.20,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.20,Close Connection,72, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.54.21,Connection,4921, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.26,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.26,Connection,5589, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.26,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.33,Label Botnet,5589, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.54.32,Connection,4323, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.35,Connection,4302, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.35,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.35,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.39,Connection,2429, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.41,Close Connection,5589, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.38,Label Normal,4302, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.42,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.43,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.54.41,Close Connection,4921, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.40,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.40,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.40,Close Connection,4302, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.54.42,Close Connection,7870, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.49,Label Botnet,2429, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.54.46,Connection,2429, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.46,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.46,Connection,2322, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.54.46,Connection,8361, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.51,Close Connection,2429, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.53,Connection,4781, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.53,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.53,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.54.56,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.54.57,Connection,4781, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.3,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.5,Label Botnet,4781, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.7,Connection,421, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.7,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.7,Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.5,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.5,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.5,Close Connection,2322, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.10,Label Botnet,421, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.8,Connection,421, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.13,Connection,2394, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.14,Close Connection,4781, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.15,Close Connection,421, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.12,Connection,4781, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.15,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.16,Close Comparative Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.13,Label Botnet,4781, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.15,Close Connection,4781, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.20,Label Botnet,2394, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Connection,5076, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Connection,2429, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Connection,4781, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Connection,421, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Connection,7765, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Connection,7716, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Connection,4323, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.17,Close Comparative Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.24,Close Connection,2394, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.25,Connection,5256, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.25,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.25,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.29,Connection,4302, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.29,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.29,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.31,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.32,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.32,Label Normal,4302, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.34,Close Connection,4302, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.32,Connection,5371, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.32,Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.55.32,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.34,Connection,1792, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.38,Connection,5752, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.38,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.38,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.41,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.42,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.43,Label Normal,5752, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.45,Connection,2823, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.57,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.57,Connection,5284, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.57,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.55.56,Close Connection,1792, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.55.59,Close Connection,5752, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.2,Close Connection,5284, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.3,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.4,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.56.1,Connection,3505, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.56.18,Close Connection,2823, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.56.21,Connection,917, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.31,Connection,2530, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.31,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.31,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.34,Label Botnet,2530, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.37,Connection,1324, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.56.35,Close Connection,917, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.56.37,Connection,4805, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.41,Connection,7870, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.43,Close Connection,2530, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.44,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.44,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.56.43,Close Connection,4805, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.56.46,Connection,830, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.49,Label Normal,1324, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.56.51,Close Connection,1324, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.56.50,Connection,2269, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.2,Label Normal,7870, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.4,Close Connection,7870, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.7,Connection,4394, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.14,Connection,3343, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.14,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.14,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.15,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.18,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.19,Close Connection,3343, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.16,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.17,Close Connection,5256, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.17,Close Connection,4394, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.17,Close Connection,830, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.17,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.17,Close Connection,3505, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.22,Connection,3814, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.22,Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.22,Connection,1913, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.26,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.26,Connection,5493, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.26,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.30,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.32,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.33,Close Connection,5493, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.36,Connection,6503, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.36,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.36,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.35,Close Connection,3814, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.38,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.40,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.41,Close Connection,6503, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.39,Connection,4871, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.45,Connection,4323, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.45,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.45,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.47,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.49,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.50,Label Normal,4323, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.48,Close Connection,4871, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.52,Close Connection,4323, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.57.51,Connection,2291, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.57,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.57,Connection,3269, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.57.57,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.2,Connection,8310, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.6,Close Connection,3269, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.7,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.8,Close Comparative Connection,7866, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.58.10,Label Normal,2269, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.58.14,Label Normal,5371, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.16,Close Connection,2291, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.58.15,Close Comparative Connection,2342, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.58.15,Close Comparative Connection,8361, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.58.16,Close Connection,5371, simple app
+vDBQtI_T5_5ok7P2dgjgqYtnr0hhKZ77,Ricardo,2nz484f8jk7yzaor,2018-6-1_15.58.16,Close Connection,2269, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.19,Connection,4520, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.19,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.19,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.21,Close Connection,8310, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.19,Connection,4479, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.25,Label Normal,4520, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.26,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.27,Close Connection,4520, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.24,Close Connection,4479, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.26,Connection,2322, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.32,Connection,8063, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.32,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.33,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.37,Close Connection,8063, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.37,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.34,Close Connection,2322, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.40,Connection,1243, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.40,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.40,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.38,Connection,2871, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.42,Connection,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.43,Connection,6108, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.43,Connection,2375, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.43,Close Connection,2871, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.48,Close Connection,1243, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.49,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.50,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.49,Connection,4304, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.54,Close Connection,4304, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.57,Label Botnet,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.58.59,Close Connection,5076, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.1,Label Botnet,6108, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.58.59,Connection,4336, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.2,Close Connection,6108, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.5,Label Botnet,2375, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.3,Close Connection,4336, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.7,Connection,2291, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.7,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.7,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.5,Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.9,Close Connection,2375, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.11,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.9,Close Connection,5565, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.13,Label Botnet,2291, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.10,Connection,4434, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.13,Close Connection,2291, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.14,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.15,Close Connection,4434, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.20,Connection,3974, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.20,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.20,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.19,Connection,4725, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.24,Label Normal,3974, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.26,Close Connection,3974, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.27,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.24,Close Connection,4725, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.27,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.27,Connection,4296, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.33,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.33,Connection,882, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.33,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.35,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.32,Close Connection,4296, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.38,Connection,1212, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.41,Label Normal,882, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.42,Close Connection,882, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.43,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.42,Close Connection,1212, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.43,Connection,2530, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.46,Connection,8585, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.46,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.46,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.56,Label Normal,8585, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.58,Close Connection,8585, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.59,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_15.59.59,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_15.59.57,Close Connection,2530, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.4,Connection,360, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.4,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.4,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.0.1,Connection,1324, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.0.4,Close Connection,1324, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.7,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.9,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.10,Close Connection,360, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.12,Connection,3983, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.12,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.12,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.0.10,Connection,26, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.18,Label Normal,3983, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.20,Close Connection,3983, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.21,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.21,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.0.19,Close Connection,26, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.23,Connection,2823, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.23,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.23,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.27,Label Normal,2823, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.29,Close Connection,2823, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.0.27,Connection,8719, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.30,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.30,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.41,Connection,4725, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.41,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.41,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.45,Label Normal,4725, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.46,Close Connection,4725, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.47,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.47,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.0.46,Close Connection,8719, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.51,Connection,8718, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.51,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.0.51,Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.0.55,Connection,3269, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.0,Label Normal,8718, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.1,Close Connection,8718, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.2,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.2,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.5,Connection,1922, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.5,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.5,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.12,Label Normal,1922, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.13,Close Connection,1922, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.14,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.14,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.21,Connection,1433, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.21,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.21,Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.1.20,Close Connection,3269, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.1.22,Connection,3844, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.27,Label Normal,1433, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.29,Close Connection,1433, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.29,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.30,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.35,Connection,3408, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.35,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.35,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.39,Close Connection,3408, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.40,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.40,Close Comparative Connection,7866, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.1.40,Connection,2817, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.47,Connection,3408, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.47,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.47,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.51,Label Normal,3408, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.56,Close Connection,3408, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.57,Close Comparative Connection,2342, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.1.54,Close Comparative Connection,1913, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.1.54,Close Connection,3844, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.1.54,Close Comparative Connection,8361, simple app
+tYviG5hqxin0IVOIIrc8Cbj6SsvZkKaz,Mercedes Muñoz,8j0r92nzlicf2yb9,2018-6-1_16.1.54,Close Connection,2817, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.1.57,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.26,Connection,2322, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.26,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.26,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.38,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.38,Close Connection,2322, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.38,Close Comparative Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.46,Connection,7840, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.46,Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.46,Connection,7866, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.49,Label Botnet,7840, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.50,Close Connection,7840, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.51,Close Comparative Connection,2342, simple app
+e08ogMuL97q3t5q_-HTWpLyr_IKN2w1P,Bianca Sozzi,uz3vzelcb3uwhfr,2018-6-1_16.2.51,Close Comparative Connection,7866, simple app

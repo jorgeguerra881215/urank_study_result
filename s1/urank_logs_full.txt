@@ -1,0 +1,231 @@
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.7,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.21,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.32,Connection,5052, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.36,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.39,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.43,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.49,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.56,Connection,3787, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.56,Connection,322, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.49.56,Connection,1772, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.50.36,Label Botnet,3787, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.50.37,Close Connection,3787, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.50.41,Close Connection,5052, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.50.50,Connection,2348, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.50.50,Connection,6260, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.0,Label Normal,2348, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.1,Close Comparative Connection,6260, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.4,Close Comparative Connection,322, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.4,Close Connection,2348, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.4,Close Comparative Connection,1772, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.45,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.52,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.56,Connection,3767, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.51.59,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.7,Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.7,Connection,3412, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.7,Connection,4534, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.12,Label Botnet,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.16,Close Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.18,Close Comparative Connection,3412, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.21,Close Comparative Connection,4534, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.22,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.25,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.27,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.30,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.31,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.33,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.33,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.42,Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.42,Connection,5052, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.42,Connection,8741, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.47,Label Normal,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.51,Close Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.54,Close Comparative Connection,5052, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.55,Close Comparative Connection,8741, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.57,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.57,Close Connection,3767, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.52.58,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.3,Connection,7954, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.4,Connection,1614, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.4,Connection,2348, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.7,Label Botnet,7954, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.11,Close Connection,7954, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.11,Close Comparative Connection,1614, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.11,Close Comparative Connection,2348, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.23,Connection,3571, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.23,Connection,6629, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.23,Connection,4106, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.25,Label Normal,3571, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.28,Close Comparative Connection,6629, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.28,Close Comparative Connection,4106, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.29,Close Connection,3571, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.37,Connection,2348, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.40,Label Botnet,2348, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.41,Close Connection,2348, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.48,Connection,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.48,Connection,7442, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.48,Connection,3571, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.50,Label Normal,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.53,Close Comparative Connection,7442, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.53,Close Connection,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.53.53,Close Comparative Connection,3571, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.0,Show Sequence Connection,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.20,Connection,6857, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.20,Connection,5373, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.20,Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.24,Label Botnet,6857, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.30,Ranking Reset,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.32,Ranking Reset,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.35,Ranking Reset,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.36,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.49,Connection,6493, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.49,Connection,5373, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.49,Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.53,Connection,7956, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.53,Connection,6857, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.54.59,Connection,7113, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.4,Connection,4530, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.4,Connection,5052, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.9,Label Botnet,6493, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.13,Close Comparative Connection,5373, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.15,Close Comparative Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.17,Close Connection,6493, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.19,Label Botnet,7956, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.26,Close Connection,7956, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.29,Close Comparative Connection,6857, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.32,Label Botnet,7113, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.34,Close Connection,7113, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.37,Label Botnet,4530, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.40,Close Connection,4530, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.42,Close Comparative Connection,5052, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.46,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.55.51,Connection,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.3,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.14,Connection,3543, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.14,Connection,7275, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.15,Connection,3571, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.18,Label Botnet,3543, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.25,Connection,7776, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.25,Connection,6857, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.26,Connection,1772, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.28,Close Connection,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.32,Close Connection,3543, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.35,Close Comparative Connection,7275, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.36,Close Comparative Connection,3571, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.41,Label Botnet,7776, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.43,Close Connection,7776, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.45,Close Comparative Connection,1772, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.45,Close Comparative Connection,6857, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.47,Ranking Reset,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.52,Ranking Reset,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.54,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.56.55,Ranking Reset,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.9,Connection,5633, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.9,Connection,7956, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.9,Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.17,Label Botnet,5633, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.22,Close Comparative Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.22,Close Comparative Connection,7956, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.23,Close Connection,5633, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.36,Connection,7069, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.36,Connection,7275, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.36,Connection,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.43,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.49,Close Comparative Connection,7275, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.50,Close Comparative Connection,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.53,Label Botnet,7069, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.56,Connection,7961, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.56,Connection,1614, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.56,Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.59,Connection,8100, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.57.59,Connection,7982, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.1,Connection,5612, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.1,Connection,7716, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.1,Connection,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.5,Label Botnet,7961, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.8,Close Comparative Connection,2277, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.13,Label Botnet,8100, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.16,Label Botnet,5612, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.20,Close Connection,7961, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.20,Close Comparative Connection,1614, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.21,Close Connection,8100, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.21,Close Comparative Connection,7982, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.21,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.21,Close Connection,7069, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.21,Close Connection,5612, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.21,Close Comparative Connection,7716, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.21,Close Comparative Connection,8569, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.24,Ranking Reset,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.25,Ranking Reset,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.37,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.49,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.58.50,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.0,Connection,3500, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.0,Connection,4130, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.0,Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.6,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.8,Close Comparative Connection,4130, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.11,Close Comparative Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.13,Label Normal,3500, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.22,Connection,4105, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.22,Connection,4106, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.22,Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.24,Connection,3494, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.25,Connection,8601, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.27,Connection,4250, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.32,Label Normal,4105, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.39,Close Comparative Connection,4106, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.42,Label Normal,3494, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.46,Label Normal,4250, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.47,Close Connection,4250, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.50,Close Comparative Connection,8601, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.51,Close Connection,3494, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.54,Close Comparative Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_17.59.56,Close Connection,4105, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.0,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.1,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.4,Connection,3050, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.4,Connection,4105, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.4,Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.11,Connection,3528, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.15,Connection,1190, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.21,Label Normal,3050, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.27,Label Normal,3528, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.31,Label Normal,1190, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.33,Close Connection,1190, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.35,Close Connection,3528, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.37,Close Comparative Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.38,Close Comparative Connection,4105, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.42,Close Connection,3050, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.45,Connection,4078, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.45,Connection,8601, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.45,Connection,4534, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.53,Connection,4036, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.53,Connection,3842, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.58,Connection,3349, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.58,Connection,3289, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.0.58,Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.5,Connection,3493, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.5,Connection,3516, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.14,Label Normal,4078, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.23,Label Normal,4036, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.26,Label Normal,3349, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.30,Label Normal,3493, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.33,Close Comparative Connection,8601, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.34,Filter,0, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.34,Close Connection,3500, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.34,Close Connection,4078, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.34,Close Comparative Connection,4534, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.34,Close Connection,4036, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.34,Close Comparative Connection,3289, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.34,Close Connection,3349, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.34,Close Comparative Connection,3516, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.35,Close Connection,3493, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.35,Close Comparative Connection,3328, full app
+gNLUNxtB_pF9Bedbha2XdF2c7eMih4xp,Juan Gomez,5pc5jpz4zpvi,2017-11-11_18.1.35,Close Comparative Connection,3842, full app
+ilg6sSAeOcrNVHPmIBuLQ9w5sKbb-BL9,Juan Gomez,5pc5jpz4zpvi,2017-11-17_12.23.4,Connection,322, full app
+ilg6sSAeOcrNVHPmIBuLQ9w5sKbb-BL9,Juan Gomez,5pc5jpz4zpvi,2017-11-17_12.23.16,Show Characteristic Legend,0, full app
+lDW2eMjBvsXnqesqfaiNf_WDOx43uBxb,Juan Gomez,5pc5jpz4zpvi,2018-1-5_11.34.58,Show Characteristic Legend,0, full app
+lDW2eMjBvsXnqesqfaiNf_WDOx43uBxb,Juan Gomez,5pc5jpz4zpvi,2018-1-5_11.35.29,Connection,322, full app
+lDW2eMjBvsXnqesqfaiNf_WDOx43uBxb,Juan Gomez,5pc5jpz4zpvi,2018-1-5_11.36.33,Connection,8023, full app
